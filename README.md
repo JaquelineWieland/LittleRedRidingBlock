@@ -4,6 +4,7 @@ My first Game I made as a Semesterproject in the University.
 Programming Language: C#    
 Framework: MonoGames  
 IDE: Visual Studio 2012  
+Single-Person-Project  
 
 ##Description:  
 Little Red Riding Block is a 2D Jump´n´Run Game in which you take control over a little block-shaped character named Little Red Riding Block.  
